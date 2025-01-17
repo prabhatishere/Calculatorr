@@ -1,1 +1,1 @@
-public sjhdjsstat
+public class
